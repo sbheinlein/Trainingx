@@ -2,4 +2,4 @@
 000200161130                          TRGEVENT(*UPDATE) PGM(ORD700) +
 000300161130                          RPLTRG(*YES) +
 000400161130                          TRG(ORD700_DETORD_ARTICLE_UPDATE) +
-000500161130                          TRGUPDCND(*CHANGE)
+000500161130                          dspmsg
